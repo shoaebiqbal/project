@@ -6,6 +6,7 @@ int main()
 {
     cout<<endl<<"Welcome to cpp program";
     cout<<endl<<"This is second line";
+    cout<<endl<<"This is new line";
     
     return 0;
 }
